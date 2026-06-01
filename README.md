@@ -8,8 +8,8 @@ Projeto desenvolvido em Java contendo a resolucao dos exercicios da lista 08.
  
 Compile o arquivo Java: 
  
-javac Main.java 
+javac lista8.java 
  
 Execute o programa: 
  
-java Main 
+java lista8 
