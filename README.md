@@ -1,6 +1,6 @@
 # algprog-lista-08 
  
-Lista de Exercicios VIII - Programacao de Solucoes Computacionais. 
+Lista de Exercicios 8 - Programacao de Solucoes Computacionais. 
  
 Projeto desenvolvido em Java contendo a resolucao dos exercicios da lista 08. 
  
